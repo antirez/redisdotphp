@@ -1,0 +1,5 @@
+This are the original PHP bindings for Redis, included with Redis 1.0 tar ball.
+
+Starting with 1.1.x Redis will not include client libs in the new tar balls nor in the Git repository, but there are still users using the old PHP bindings because new bindings require name spaces or simply for the sake of compatibility.
+
+I created this repository in order to fix this bugs and somewhat support this client library at least for the 1.0 API.
